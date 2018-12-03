@@ -1,0 +1,27 @@
+{
+  "id": 123,
+  "title": "Title of post",
+  "content": "Post content",
+  "author": "Author of post",
+  "dateCreated": "12-05-2018",
+  "tags": [
+    "tag1",
+    "tag2",
+    "tag3"
+  ],
+  "likes": 20,
+  "comments": [
+    {
+      "user": "username",
+      "message": "text",
+      "dateCreated": "DateTime",
+      "likes": "total likes"
+    },
+    {
+      "user": "username",
+      "message": "text",
+      "dateCreated": "DateTime",
+      "likes": "total likes"
+    }
+  ]
+}
